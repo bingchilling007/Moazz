@@ -16,6 +16,15 @@ const translations = {
     hero_cta_explore: "Explore Products",
     badge_title: "100% Chilled Fresh",
     badge_subtitle: "Temperature Controlled Supply",
+    hero_glass_title: "Premium Quality Standards",
+    hero_glass_h1: "100% Halal Certified",
+    hero_glass_p1: "Sourced from accredited farms only.",
+    hero_glass_h2: "Chilled & Cold-Chain Tracked",
+    hero_glass_p2: "Maintained strictly at 0°C to 2°C.",
+    hero_glass_h3: "DED Licensed Trading",
+    hero_glass_p3: "Official commercial foodstuff importer.",
+    hero_label_store: "Dubai Outlet",
+    hero_label_meat: "Premium Halal Cuts",
     
     // About
     about_subtitle: "Official Licensing & Trust",
@@ -46,6 +55,16 @@ const translations = {
     stat_clients_lbl: "B2B Clients",
     stat_import_num: "100%",
     stat_import_lbl: "Halal Certified",
+    
+    // Gallery
+    gallery_tag_retail: "Retail Shop",
+    gallery_title_storefront: "Moaaz Storefront, Dubai",
+    gallery_tag_sourcing: "Organic Sourcing",
+    gallery_title_pastures: "Sourcing Highlands",
+    gallery_tag_halal: "100% Halal",
+    gallery_title_carcasses: "Fresh Chilled Carcasses",
+    gallery_tag_logistics: "Logistics",
+    gallery_title_warehouse: "Cold Chain Standards",
     
     // Operations
     ops_subtitle: "What We Do",
@@ -147,6 +166,13 @@ const translations = {
     hero_cta_explore: "تصفح منتجاتنا",
     badge_title: "طازج ومبرد 100%",
     badge_subtitle: "سلسلة إمداد مبردة ومراقبة",
+    hero_glass_title: "معايير الجودة الممتازة",
+    hero_glass_h1: "حلال معتمد 100%",
+    hero_glass_p1: "مصادر مستوردة من مزارع معتمدة فقط.",
+    hero_glass_h2: "مبردة ومراقبة السلسلة",
+    hero_glass_p2: "نحافظ عليها بدقة بين 0 إلى 2 درجة مئوية.",
+    hero_glass_h3: "تجارة مرخصة من DED",
+    hero_glass_p3: "مستورد تجاري رسمي للمواد الغذائية.",
     
     // About
     about_subtitle: "الترخيص الرسمي والثقة",
@@ -177,6 +203,16 @@ const translations = {
     stat_clients_lbl: "عملاء تجاريين",
     stat_import_num: "100%",
     stat_import_lbl: "حلال معتمد",
+    
+    // Gallery
+    gallery_tag_retail: "محل بيع بالتجزئة",
+    gallery_title_storefront: "واجهة ملحمة معاذ، دبي",
+    gallery_tag_sourcing: "مصادر عضوية",
+    gallery_title_pastures: "مرتفعات التوريد",
+    gallery_tag_halal: "حلال 100%",
+    gallery_title_carcasses: "ذبائح طازجة مبردة",
+    gallery_tag_logistics: "الخدمات اللوجستية",
+    gallery_title_warehouse: "معايير سلسلة التبريد",
     
     // Operations
     ops_subtitle: "خدماتنا",

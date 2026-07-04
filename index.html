@@ -74,15 +74,14 @@
       </div>
       
       <div class="hero-image-wrapper reveal">
-        <div class="hero-img-backdrop"></div>
-        <div class="hero-img-card">
-          <img src="assets/images/carcasses_hanging.jpg" alt="Moaaz Foodstuff Imported Meat Carcasses">
-          <div class="hero-badge">
-            <div class="hero-badge-icon">🥩</div>
-            <div class="hero-badge-text">
-              <h4 data-i18n="badge_title">100% Chilled Fresh</h4>
-              <p data-i18n="badge_subtitle">Temperature Controlled Supply</p>
-            </div>
+        <div class="hero-collage">
+          <div class="collage-img main-img">
+            <img src="assets/images/storefront_original.jpg" alt="Moaaz Foodstuff Dubai Storefront">
+            <span class="collage-label" data-i18n="hero_label_store">Dubai Outlet</span>
+          </div>
+          <div class="collage-img sub-img">
+            <img src="assets/images/raw_beef.jpg" alt="Moaaz Foodstuff Fresh Beef">
+            <span class="collage-label" data-i18n="hero_label_meat">Premium Halal Cuts</span>
           </div>
         </div>
       </div>
@@ -163,15 +162,38 @@
       </div>
       
       <!-- Authentic Sourcing Gallery -->
-      <div class="about-gallery reveal" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 50px;">
-        <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-sm); height: 260px;">
-          <img src="assets/images/storefront_original.jpg" alt="Moaaz Foodstuff Shopfront Dubai" style="width: 100%; height: 100%; object-fit: cover;">
+      <div class="premium-gallery reveal">
+        <!-- Item 1: Storefront -->
+        <div class="gallery-card">
+          <img src="assets/images/storefront_original.jpg" alt="Moaaz Foodstuff Shopfront Dubai">
+          <div class="gallery-card-overlay">
+            <span class="gallery-card-tag" data-i18n="gallery_tag_retail">Retail Shop</span>
+            <h4 class="gallery-card-title" data-i18n="gallery_title_storefront">Moaaz Storefront, Dubai</h4>
+          </div>
         </div>
-        <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-sm); height: 260px;">
-          <img src="assets/images/goats_grazing.jpg" alt="Livestock in Kenya & Ethiopia Pastures" style="width: 100%; height: 100%; object-fit: cover;">
+        <!-- Item 2: Sourcing/Pastures -->
+        <div class="gallery-card">
+          <img src="assets/images/goats_grazing.jpg" alt="Livestock in Kenya & Ethiopia Pastures">
+          <div class="gallery-card-overlay">
+            <span class="gallery-card-tag" data-i18n="gallery_tag_sourcing">Organic Sourcing</span>
+            <h4 class="gallery-card-title" data-i18n="gallery_title_pastures">Sourcing Highlands</h4>
+          </div>
         </div>
-        <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-sm); height: 260px;">
-          <img src="assets/images/carcasses_hanging.jpg" alt="Fresh Meat Carcasses" style="width: 100%; height: 100%; object-fit: cover;">
+        <!-- Item 3: Carcasses -->
+        <div class="gallery-card">
+          <img src="assets/images/carcasses_hanging.jpg" alt="Fresh Meat Carcasses">
+          <div class="gallery-card-overlay">
+            <span class="gallery-card-tag" data-i18n="gallery_tag_halal">100% Halal</span>
+            <h4 class="gallery-card-title" data-i18n="gallery_title_carcasses">Fresh Chilled Carcasses</h4>
+          </div>
+        </div>
+        <!-- Item 4: Logistics/Warehouse -->
+        <div class="gallery-card">
+          <img src="assets/images/warehouse.jpg" alt="Moaaz Foodstuff Cold Chain Facility">
+          <div class="gallery-card-overlay">
+            <span class="gallery-card-tag" data-i18n="gallery_tag_logistics">Logistics</span>
+            <h4 class="gallery-card-title" data-i18n="gallery_title_warehouse">Cold Chain Standards</h4>
+          </div>
         </div>
       </div>
     </div>
