@@ -126,9 +126,9 @@ const translations = {
     contact_subtitle: "Get in Touch",
     contact_title: "Connect with Our Trading Desk",
     c_address_title: "Main Office & Outlet",
-    c_address_desc: "Shop No. LBRC-S11, Muhaisnah Second, Deira, Dubai, United Arab Emirates",
+    c_address_desc: "Muhaisnah 2, Street # 7, Shop # 11, Sonapore, Dubai — Opposite Old Baldia Camp",
     c_phone_title: "Mobiles & Trading Desk",
-    c_phone_desc: "+971 52 211 6612 (WhatsApp)<br>+971 58 264 2005 (WhatsApp)",
+    c_phone_desc: "+971 52 211 6612 (WhatsApp)<br>+971 58 264 2005 (WhatsApp)<br>+971 4 575 7415 (Landline)",
     c_email_title: "Email Address",
     c_email_desc: "maazzafar099@gmail.com",
     
@@ -274,9 +274,9 @@ const translations = {
     contact_subtitle: "تواصل معنا",
     contact_title: "اتصل بمكتب التداول والمبيعات لدينا",
     c_address_title: "المكتب الرئيسي والمنفذ",
-    c_address_desc: "محل رقم LBRC-S11، المحيصنة الثانية، ديرة، دبي، الإمارات العربية المتحدة",
+    c_address_desc: "المحيصنة 2، شارع رقم 7، محل رقم 11، سونابور، دبي — مقابل مخيم البلدية القديم",
     c_phone_title: "الهواتف ومكتب المبيعات",
-    c_phone_desc: "+971 52 211 6612 (واتساب)<br>+971 58 264 2005 (واتساب)",
+    c_phone_desc: "+971 52 211 6612 (واتساب)<br>+971 58 264 2005 (واتساب)<br>+971 4 575 7415 (خط أرضي)",
     c_email_title: "البريد الإلكتروني",
     c_email_desc: "maazzafar099@gmail.com",
     
